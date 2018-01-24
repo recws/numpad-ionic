@@ -1,0 +1,8 @@
+{
+  "name": "numpad-ionic",
+  "app_id": "fdd0cf22",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
